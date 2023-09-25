@@ -22,12 +22,8 @@ project directory structure:
 **2. Implement the API (app.py)**:
 
 
-
 **3. Implement Unit Tests (test_dispenser.py)**:
 
-```python
-
-```
 
 **4. Run the Tests**:
 
